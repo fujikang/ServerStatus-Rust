@@ -13,7 +13,7 @@ Error="\033[31m[错误]\033[0m"
 Warning="\033[33m[警告]\033[0m"
 Tip="\033[32m[注意]\033[0m"
 
-working_dir=/opt/ServerStatus
+working_dir=/opt/server-status
 
 client_dir="$working_dir/client"
 server_dir="$working_dir/server"
